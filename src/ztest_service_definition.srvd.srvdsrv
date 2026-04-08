@@ -1,4 +1,4 @@
 @EndUserText.label: 'test service definition'
 define service ZTEST_service_definition {
-  expose Api_Ddls_Assoc_Target_Names;
+  expose sdfsdf;
 }
