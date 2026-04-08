@@ -1,0 +1,4 @@
+@EndUserText.label: 'SRVD Repro Test'
+define service ZS_SRVD_REPRO {
+  expose ZI_SRVD_REPRO;
+}
